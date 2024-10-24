@@ -1,0 +1,2 @@
+this is a from linux machine
+line i added from linux
